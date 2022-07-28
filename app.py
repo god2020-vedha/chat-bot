@@ -84,6 +84,26 @@
    "id": "d35f68a2",
    "metadata": {},
    "outputs": [],
+   "source": [
+    "!Flask --version\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "75a6c72c",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "numpy._version_"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "ba11f603",
+   "metadata": {},
+   "outputs": [],
    "source": []
   }
  ],
